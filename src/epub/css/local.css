@@ -39,6 +39,12 @@
 }
 /* End verse */
 
+/* Temperature */
+[epub|type~="se:temperature"]{
+	font-variant: all-small-caps;
+}
+/* End temperature*/
+
 /* Custom sign formatting */
 blockquote.sign {
 	text-align: center;
