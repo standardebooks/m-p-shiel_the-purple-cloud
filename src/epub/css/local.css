@@ -38,3 +38,9 @@
 	display: none;
 }
 /* End verse */
+
+/* Custom sign formatting */
+blockquote.sign {
+	text-align: center;
+}
+/* End custom sign formatting */
