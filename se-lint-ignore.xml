@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-purple-cloud.xhtml">
+		<ignore>
+			<code>y-032</code>
+			<reason>Multiple instances where the author is calling attention to specific letters or syllables within words.</reason>
+		</ignore>
+		<ignore>
+			<code>t-031</code>
+			<reason>Matches the actual title of the ABC Rail Guide.</reason>
+		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>Matches the actual title of the ABC Rail Guide.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
