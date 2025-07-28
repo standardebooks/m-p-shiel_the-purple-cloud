@@ -40,46 +40,49 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">A young adventurer joins a polar expedition, only to return alone to an unbelievably different world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The narrator, Adam Jeffson, is recruited to join a polar expedition after the suspicious death of another crewmate. Jeffson and the rest of the &lt;i&gt;Boreal&lt;/i&gt; are hoping to claim a multimillion dollar prize for the first person to reach the North Pole. During the long voyage, Jeffson discovers an omininous purple cloud which transforms his Arctic adventure. Upon his return, he struggles to survive, especially psychologically, in an apocolyptically different world.&lt;/p&gt;
+			&lt;p&gt;This ebook edition is based on the original 1901 text of &lt;i&gt;The Purple Cloud&lt;/i&gt;. It’s &lt;a href="https://standardebooks.org/ebooks/m-p-shiel"&gt;Shiel’s&lt;/a&gt; best known work and one of the earliest examples of “last man” apocolyptic novels in the sci-fi genre.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11229</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/102680644</dc:source>
+		<meta property="se:production-notes">The Project Gutenberg transcription and therefore this production are based on the original (and preferred) 1901 edition. The HathiTrust scans are from the revised 1929 edition, as there were no publically available scans of the 1901 edition at the time of production. The scans were referenced to fix typos, etc. in cases where the 1901 and 1929 editions obviously agreed.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purple_Cloud</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-p-shiel_the-purple-cloud</meta>
 		<dc:creator id="author">M. P. Shiel</dc:creator>
 		<meta property="file-as" refines="#author">Shiel, M. P.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Matthew Phipps Shiell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._P._Shiel</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79109916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
+		<dc:contributor id="artist">Paul Klee</dc:contributor>
+		<meta property="file-as" refines="#artist">Klee, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Klee</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79093306</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Garrett Alley</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Alley, Garrett</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Maria Khomenko</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Khomenko, Maria</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Neil Pankey</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Pankey, Neil</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/neilpa</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
