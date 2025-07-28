@@ -43,10 +43,10 @@
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
-/* End temperature*/
+/* End temperature */
 
 /* Custom sign formatting */
-blockquote.sign {
+blockquote.sign{
 	text-align: center;
 }
 /* End custom sign formatting */
