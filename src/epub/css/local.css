@@ -75,6 +75,10 @@ q{
 }
 /* End italics */
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 /* Temperature */
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
