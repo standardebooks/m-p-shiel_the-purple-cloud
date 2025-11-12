@@ -60,8 +60,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Matthew Phipps Shiell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/M._P._Shiel</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79109916</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Paul Klee</dc:contributor>
 		<meta property="file-as" refines="#artist">Klee, Paul</meta>
