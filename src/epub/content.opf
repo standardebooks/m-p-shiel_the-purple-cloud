@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/11229</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102680644</dc:source>
 		<meta property="se:production-notes">The Project Gutenberg transcription and therefore this production are based on the original (and preferred) 1901 edition. The HathiTrust scans are from the revised 1929 edition, as there were no publically available scans of the 1901 edition at the time of production. The scans were referenced to fix typos, etc. in cases where the 1901 and 1929 editions obviously agreed.</meta>
-		<meta property="se:word-count">102445</meta>
+		<meta property="se:word-count">102215</meta>
 		<meta property="se:reading-ease.flesch">54.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Purple_Cloud</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-p-shiel_the-purple-cloud</meta>
