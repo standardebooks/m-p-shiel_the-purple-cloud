@@ -1,0 +1,1 @@
+The Project Gutenberg transcription and therefore this production are based on the original (and preferred) 1901 edition. The HathiTrust scans are from the revised 1929 edition, as there were no publically available scans of the 1901 edition at the time of production. The scans were referenced to fix typos, etc. in cases where the 1901 and 1929 editions obviously agreed.
