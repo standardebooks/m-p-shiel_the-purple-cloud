@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.</dc:abstract>
+		<meta property="schema:abstract">A young adventurer embarks on a polar expedition, only to return to an unbelievably different world.</meta>
 		<dc:description>
 			&lt;p&gt;Adam Jeffson, the narrator of &lt;i&gt;The Purple Cloud&lt;/i&gt;, is recruited to join a polar expedition after the suspicious death of another crewmate. Jeffson and the rest of crew of the &lt;i&gt;Boreal&lt;/i&gt; are hoping to claim a multimillion dollar prize for the first expedition to reach the North Pole. During the long voyage, Jeffson discovers an ominous purple cloud which transforms his Arctic adventure. Upon his return, he struggles to survive, especially psychologically, in an apocalyptically different world.&lt;/p&gt;
 			&lt;p&gt;This ebook edition is based on the 1901 novelization, which is an expanded version of the 1901 serialization and preferred by scholars over a later 1929 edition that made changes to the language. It’s &lt;a href="https://standardebooks.org/ebooks/m-p-shiel"&gt;Shiel’s&lt;/a&gt; best known work, and one of the earliest examples of the “last man” apocalyptic science fiction novel.&lt;/p&gt;
